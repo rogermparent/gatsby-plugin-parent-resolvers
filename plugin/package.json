@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-plugin-parent-resolvers",
+  "version": "1.0.0",
+  "description": "A Gatsby plugin that provides resolvers and extensions to fetch fields from parent nodes.",
+  "main": "index.js",
+  "author": "rmp",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write **/*.js",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rogermparent/gatsby-plugin-parent-resolvers"
+  },
+  "bugs": {
+    "url": "https://github.com/rogermparent/gatsby-plugin-parent-resolvers/issues"
+  }
+}

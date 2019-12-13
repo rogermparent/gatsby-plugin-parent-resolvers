@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "workspaces": [
+    "plugin",
+    "example"
+  ],
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  }
+}
