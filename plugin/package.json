@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-parent-resolvers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Gatsby plugin that provides resolvers and extensions to fetch fields from parent nodes.",
   "main": "index.js",
   "author": "rmp <rogermparent@gmail.com>",
