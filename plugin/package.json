@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "description": "A Gatsby plugin that provides resolvers and extensions to fetch fields from parent nodes.",
   "main": "index.js",
-  "author": "rmp",
+  "author": "rmp <rogermparent@gmail.com>",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "resolver"
+  ],
   "license": "MIT",
   "scripts": {
     "format": "prettier --write **/*.js",
