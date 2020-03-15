@@ -62,7 +62,7 @@ A notable example is the `body` field on `Mdx` nodes.
 
 #### Arguments
 
-In addition to the arguments `parentPassthrough\*\* takes:
+In addition to the arguments `parentPassthrough` takes:
 
 _typeName_  
 The name of the Type whose resolvers will be used.  
