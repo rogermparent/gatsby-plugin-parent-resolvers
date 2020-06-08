@@ -7,5 +7,6 @@
   "scripts": {
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-  }
+  },
+  "version": "0.0.0"
 }
