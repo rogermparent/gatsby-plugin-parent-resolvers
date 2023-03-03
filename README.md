@@ -1,3 +1,27 @@
+# This repository is outdated!
+
+This repo was made a while ago during the Gatsby 2 days, before I learned a lot about how Gatsby's Data Layer works.
+
+These days, I think the following fully built-in GraphQL-based solution is much more preferable than this repo:
+
+```graphql
+query ResourcesIndexQuery {
+  allResourcesJson {
+    nodes {
+      parent {
+        ... on File {
+          name
+        }
+      }
+    }
+  }
+}
+```
+
+In other situations, it's likely better to create a custom Node type the includes the desired field.
+
+---
+
 # Gatsby plugin: Parent Resolvers - Monorepo
 
 Hi! This repo is for developing `gatsby-plugin-parent-resolvers`.
