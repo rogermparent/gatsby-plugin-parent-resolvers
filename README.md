@@ -1,4 +1,4 @@
-# This repository is outdated!
+# :warning: This repository is outdated! :warning:
 
 This repo was made a while ago during the Gatsby 2 days, before I learned a lot about how Gatsby's Data Layer works.
 
@@ -19,6 +19,8 @@ query ResourcesIndexQuery {
 ```
 
 In other situations, it's likely better to create a custom Node type the includes the desired field.
+
+The repo is preserved for archival purposes.
 
 ---
 
