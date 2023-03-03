@@ -1,6 +1,6 @@
 # :warning: This repository is outdated! :warning:
 
-This repo was made a while ago during the Gatsby 2 days, before I learned a lot about how Gatsby's Data Layer works.
+This repo was made a while ago during the Gatsby 2 days, before I learned more about how Gatsby's Data Layer and its built-in features work.
 
 These days, I think the following fully built-in GraphQL-based solution is much more preferable than this repo:
 
@@ -18,9 +18,9 @@ query ResourcesIndexQuery {
 }
 ```
 
-In other situations, it's likely better to create a custom Node type the includes the desired field.
+In other situations, it's likely better to [create a custom Node type](https://www.gatsbyjs.com/docs/reference/config-files/actions/#createNode) the includes the desired field.
 
-The repo is preserved for archival purposes.
+The repo is preserved for archival purposes only.
 
 ---
 
